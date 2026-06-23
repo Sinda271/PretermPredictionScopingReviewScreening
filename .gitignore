@@ -1,3 +1,9 @@
-Metadata
-env
 .DS_Store
+env
+__pycache__/
+*.pyc
+All_final_scoping_articles/
+outputs/
+Extracted_papers/
+Screening/
+Metadata/*.csv
