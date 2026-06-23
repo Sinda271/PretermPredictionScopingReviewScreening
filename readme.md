@@ -22,6 +22,10 @@ The workflow combines AI-assisted screening, PDF text extraction, structured inf
 │   └── rayyan_resolved_duplicates.csv
 ├── All_final_scoping_articles/
 │   └── *.pdf
+├── Screening/
+│   └── ...
+├── Extracted_papers/
+│   └── ...
 ├── outputs/
 │   └── ...
 └── README.md
